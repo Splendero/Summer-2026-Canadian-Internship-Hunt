@@ -14,13 +14,40 @@
 </thead>
 <tbody>
 <tr>
+<td><strong>AMD</strong></td>
+<td>ML/AI Intern</td>
+<td>Markham</td>
+<td><a href="https://careers.amd.com/careers-home/jobs/72025?lang=en-us&iis=Job%20Board&iisn=Linkedin/"><button>Apply</button></a></td>
+<td>2025-09-27</td>
+<td>Open</td>
+<td>❌ No</td>
+</tr>
+<tr>
+<td><strong>Uber</strong></td>
+<td>Software Engineer Intern</td>
+<td>Toronto</td>
+<td><a href="https://university-uber.icims.com/jobs/149142/job"><button>Apply</button></a></td>
+<td>2025-09-27</td>
+<td>Open</td>
+<td>❌ No</td>
+</tr>
+<tr>
+<td><strong>Provision</strong></td>
+<td>Software Engineer Intern</td>
+<td>Toronto</td>
+<td><a href="https://www.provision.com/careers?ashby_jid=829e6ba2-b153-4011-8536-961795352cd5"><button>Apply</button></a></td>
+<td>2025-09-27</td>
+<td>Open</td>
+<td>❌ No</td>
+</tr>
+<tr>
 <td><strong>CIBC</strong></td>
 <td>Data Scientist Co-Op</td>
 <td>Toronto</td>
 <td><a href="https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Data-Scientist-Co-Op--8-Months-_2521598?source=LinkedIn"><button>Apply</button></a></td>
 <td>2025-09-17</td>
 <td>Open</td>
-<td>✅ Yes</td>
+<td>❌ No</td>
 </tr>
 <tr>
 <td><strong>RBC Amplify</strong></td>
@@ -74,7 +101,7 @@
 <td><a href="https://trench.csod.com/ux/ats/careersite/1/home/requisition/1360?c=trench&sq=req1360&source=LinkedIn"><button>Apply</button></a></td>
 <td>2025-09-16</td>
 <td>Open</td>
-<td>✅ Yes</td>
+<td>❌ No</td>
 </tr>
 <tr>
 <td><strong>Stripe</strong></td>
@@ -83,7 +110,7 @@
 <td><a href="https://stripe.com/jobs/listing/software-engineer-intern/7206389"><button>Apply</button></a></td>
 <td>2025-09-16</td>
 <td>Open</td>
-<td>✅ Yes</td>
+<td>❌ No</td>
 </tr>
 <tr>
 <td><strong>Databricks</strong></td>
@@ -110,7 +137,7 @@
 <td><a href="https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58725&source=WEB_Search_EMEA"><button>Apply</button></a></td>
 <td>2025-09-15</td>
 <td>Open</td>
-<td>✅ Yes</td>
+<td>❌ No</td>
 </tr>
 <tr>
 <td><strong>IBM</strong></td>
@@ -119,7 +146,7 @@
 <td><a href="https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=60297&source=WEB_Search_EMEA"><button>Apply</button></a></td>
 <td>2025-09-15</td>
 <td>Open</td>
-<td>✅ Yes</td>
+<td>❌ No</td>
 </tr>
 <tr>
 <td><strong>SGS & Co</strong></td>
@@ -128,7 +155,7 @@
 <td><a href="https://recruiting2.ultipro.com/SGS1000SGSI/JobBoard/97ca74c0-a912-49a2-94d9-461835a67db8/OpportunityDetail?opportunityId=e25b2950-9db7-4350-8c44-0395b5689958"><button>Apply</button></a></td>
 <td>2025-09-13</td>
 <td>Open</td>
-<td>✅ Yes</td>
+<td>❌ No</td>
 </tr>
 <tr>
 <td><strong>Block</strong></td>
@@ -137,11 +164,11 @@
 <td><a href="https://block.xyz/careers/jobs/4904198008?gh_jid=4904198008&utm_source=trueup&utm_medium=website&ref=trueup"><button>Apply</button></a></td>
 <td>2025-09-8</td>
 <td>Open</td>
-<td>✅ Yes</td>
+<td>❌ No</td>
 </tr>
 </tbody>
 </table>
 
 ---
-*Last updated: 2025-09-20 17:12:42*
+*Last updated: 2025-09-28 13:57:47*
 *Generated from internships.csv*
